@@ -1,6 +1,6 @@
 # CNN-LSTM Image Classification with ResNet50V2
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahmed2sameh/cnn-lstm/blob/main/Untitled15.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahmed2sameh/cnn-lstm/blob/main/cnn_lstm_image_classifier.ipynb)
 
 > A hybrid deep learning architecture combining ResNet50V2 (CNN) as a feature extractor with LSTM layers for binary image classification.
 
@@ -45,7 +45,7 @@ Flatten → Dense (2, Softmax) — Binary output
 
 ## 📂 Project Structure
 ```
-├── Untitled15.ipynb   # Full pipeline: data loading → model → training → evaluation
+├── cnn_lstm_image_classifier.ipynb   # Full pipeline: data loading → model → training → evaluation
 └── README.md
 ```
 
